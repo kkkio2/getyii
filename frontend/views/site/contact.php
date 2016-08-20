@@ -7,13 +7,12 @@ $this->title = '联系我们';
 $content = '
 ## QQ群
 
-- Yii2 中国交流群：343188481
-- Get√Yii 核心开发者群：321493381（本群只接受参与本站开发的 Yiier）
+- 交流群：65194887
 
 ## 个人联系
 
-- QQ：314494687
-- Mail：caizhenghai[#]gmail.com
+- QQ：1028735336
+- Mail：kkkio2[#]163.com
 
 ';
 ?>
