@@ -27,9 +27,9 @@ Github 项目地址： [nas.pub](https://github.com/kkkio2/nas.pub) Fork 以后�
 
 #### 如何赞助？
 
-![微信]('.QINIU_URL.'nasPub/pay/wechat-pay.png)
+![微信](http://source.codeloving.com/nasPub/pay/wechat-pay.png)
 
-![支付宝]('.QINIU_URL.'nasPub/pay/ali-pay.png)
+![支付宝](http://source.codeloving.com/nasPub/pay/ali-pay.png)
 ';
 ?>
 
